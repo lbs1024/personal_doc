@@ -1,0 +1,3 @@
+com\mapreduce\WordCount.class
+com\mapreduce\WordCount$WCReducer.class
+com\mapreduce\WordCount$WCMapper.class
