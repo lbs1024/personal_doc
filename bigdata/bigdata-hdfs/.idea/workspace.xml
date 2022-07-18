@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46ecea6d-4327-46e9-a34c-09a7a236f42b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../大数据知识点记录.md" beforeDir="false" afterPath="$PROJECT_DIR$/../大数据知识点记录.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="localRepository" value="D:\software\program\Maven\LocalRepository" />
+        <option name="mavenHome" value="D:/software/program/Maven/apache-maven-3.8.4" />
+        <option name="showDialogWithAdvancedSettings" value="true" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\software\program\Maven\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2C6PmiR7gfkj3YoBqhPizbdr0wR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.HdfsCrudTest.testGetFileList">
+    <configuration name="HdfsCrudTest.testAddFileToHdfs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bigdata-hdfs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hdfs.hdfsdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hdfs.hdfsdemo" />
+      <option name="MAIN_CLASS_NAME" value="com.hdfs.hdfsdemo.HdfsCrudTest" />
+      <option name="METHOD_NAME" value="testAddFileToHdfs" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HdfsCrudTest.testDeleteFileFromHdfs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bigdata-hdfs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hdfs.hdfsdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hdfs.hdfsdemo" />
+      <option name="MAIN_CLASS_NAME" value="com.hdfs.hdfsdemo.HdfsCrudTest" />
+      <option name="METHOD_NAME" value="testDeleteFileFromHdfs" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HdfsCrudTest.testGetFileList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bigdata-hdfs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hdfs.hdfsdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hdfs.hdfsdemo" />
+      <option name="MAIN_CLASS_NAME" value="com.hdfs.hdfsdemo.HdfsCrudTest" />
+      <option name="METHOD_NAME" value="testGetFileList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HdfsCrudTest.testMkdirOrRenameToHdfs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bigdata-hdfs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hdfs.hdfsdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hdfs.hdfsdemo" />
+      <option name="MAIN_CLASS_NAME" value="com.hdfs.hdfsdemo.HdfsCrudTest" />
+      <option name="METHOD_NAME" value="testMkdirOrRenameToHdfs" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HdfsCrudTest.testGetFileList" />
+        <item itemvalue="JUnit.HdfsCrudTest.testMkdirOrRenameToHdfs" />
+        <item itemvalue="JUnit.HdfsCrudTest.testDeleteFileFromHdfs" />
+        <item itemvalue="JUnit.HdfsCrudTest.testAddFileToHdfs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46ecea6d-4327-46e9-a34c-09a7a236f42b" name="Changes" comment="" />
+      <created>1658120221956</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658120221956</updated>
+      <workItem from="1658120224469" duration="4503000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
