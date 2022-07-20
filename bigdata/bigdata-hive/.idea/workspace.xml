@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91c44066-0993-4c10-bd04-c172f019762c" name="Changes" comment="">
+    <list default="true" id="2d0ac115-5046-4d61-8cab-64b01edeb662" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../大数据知识点记录.md" beforeDir="false" afterPath="$PROJECT_DIR$/../大数据知识点记录.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2C6bkdErekYdZ3uAvDTwXJUN0cy" />
+  <component name="ProjectId" id="2CDFtub9fjFZ7c0gqySlccB20ye" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -48,33 +48,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.format.on.save.advertiser.fired&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="91c44066-0993-4c10-bd04-c172f019762c" name="Changes" comment="" />
-      <created>1658126126315</created>
+      <changelist id="2d0ac115-5046-4d61-8cab-64b01edeb662" name="Changes" comment="" />
+      <created>1658329467086</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1658126126315</updated>
-      <workItem from="1658126128954" duration="4548000" />
-      <workItem from="1658131292860" duration="4054000" />
-      <workItem from="1658314362591" duration="138000" />
-      <workItem from="1658328964833" duration="434000" />
-      <workItem from="1658329423287" duration="7000" />
+      <updated>1658329467086</updated>
+      <workItem from="1658329469373" duration="3458000" />
     </task>
     <servers />
   </component>
