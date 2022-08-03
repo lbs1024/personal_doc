@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class HelloController {
 
-    @GetMapping(value = "/index")
+    @GetMapping(value = "/")
     public String helloWorld() {
-        return "This is my first docker application!";
+        return "这里是hdfs集群的slave2节点";
     }
 }
